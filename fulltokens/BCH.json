@@ -1,0 +1,130 @@
+﻿{
+  "team": [
+    {
+      "avatar_url": "",
+      "name": "",
+      "title": "",
+      "title_zh": "",
+      "socials": [
+        {
+          "link": "",
+          "channel": ""
+        }
+      ]
+    }
+  ],
+  "advisors": [
+    {
+      "avatar_url": "",
+      "name": "",
+      "title": "",
+      "title_zh": "",
+      "socials": [
+        {
+          "link": "",
+          "channel": ""
+        }
+      ]
+    }
+  ],
+  "investors": [
+    {
+      "avatar_url": "",
+      "name": "",
+      "url": ""
+    }
+  ],
+  "exchanges": [
+    {
+      "name": "OKEx"
+    },
+    {
+      "name": "Bitfinex"
+    },
+    {
+      "name": "Huobi"
+    },
+    {
+      "name": "EXX"
+    },
+    {
+      "name": "HitBTC"
+    },
+    {
+      "name": "Bit-z"
+    },
+    {
+      "name": "Binance"
+    },
+    {
+      "name": "GDAX"
+    },
+    {
+      "name": "Bithumb"
+    },
+    {
+      "name": "CoinBene"
+    },
+    {
+      "name": "Bitstamp"
+    },
+    {
+      "name": "Kraken"
+    },
+    {
+      "name": "Poloniex"
+    },
+    {
+      "name": "livecoin"
+    },
+    {
+      "name": "Bittrex"
+    },
+    {
+      "name": "Bitflyer"
+    }
+  ],
+  "is_listed": true,
+  "tokenid": "BCH",
+  "category": "基础设施",
+  "total_supply": "21,000,000",
+  "icon_url": "http://tokenpedia.io/images/token_icons/64x64/bitcoin-cash.png",
+  "circulating_supply": "17,231,163",
+  "desc": "Bitcoin Cash brings sound money to the world, fulfilling the original promise of Bitcoin as 'Peer-to-Peer Electronic Cash'. Merchants and users are empowered with low fees and reliable confirmations. The future shines brightly with unrestricted growth, global adoption, permissionless innovation, and decentralized development.",
+  "desc_zh": "比特币现金 (Bitcoin Cash) 为世界带来一种可靠的钱，履行最初的比特币作为「点对点数字现金」的承诺，商家和用户拥有了具备低廉费用和可靠确认的支付方式。因其不受限制的增长、全球采用、无需许可的创新，以及去中心化的开发，将有光明的未来。",
+  "symbol": "BCH",
+  "ico_info": {
+    "status": "",
+    "end_date": "",
+    "funds_raised": "",
+    "start_date": "",
+    "ico_price": "",
+    "token_for_investors": "",
+    "funding_target": "",
+    "token_type": "",
+    "distribution": [],
+    "funding_cap": "N/A"
+  },
+  "github_owner": "bitcoincashorg",
+  "github": "https://github.com/bitcoincashorg",
+  "name": "bitcoincash",
+  "project": {
+    "website": "https://www.bitcoincash.org/zh-CN/",
+    "contacts": "",
+    "symbol": "BCH",
+    "whitepaper_url": ""
+  },
+  "contract_address": "",
+  "trend_indices": [
+    {
+      "statistics": {
+        "postCount": "",
+        "followersCount": 19805,
+        "likesCount": 17436
+      },
+      "url": "https://www.facebook.com/bitcoincashorg",
+      "identifier": "",
+      "channel": "facebook"
+    }
+  ]
+}
