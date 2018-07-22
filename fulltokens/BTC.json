@@ -1,0 +1,145 @@
+﻿{
+  "team": [
+    {
+      "avatar_url": "",
+      "name": "Satoshi Nakamoto",
+      "title": "Founder",
+      "title_zh": "创始人",
+      "socials": [
+        {
+          "link": "",
+          "channel": ""
+        }
+      ]
+    }
+  ],
+  "advisors": [
+    {
+      "avatar_url": "",
+      "name": "",
+      "title": "",
+      "title_zh": "",
+      "socials": [
+        {
+          "link": "",
+          "channel": ""
+        }
+      ]
+    }
+  ],
+  "investors": [
+    {
+      "avatar_url": "",
+      "name": "",
+      "url": ""
+    }
+  ],
+  "exchanges": [
+    {
+      "name": "Binance"
+    },
+    {
+      "name": "Bitfinex"
+    },
+    {
+      "name": "OKEx"
+    },
+    {
+      "name": "CoinBene"
+    },
+    {
+      "name": "Huobi"
+    },
+    {
+      "name": "GDAX"
+    },
+    {
+      "name": "HitBTC"
+    },
+    {
+      "name": "Bitstamp"
+    },
+    {
+      "name": "Bitflyer"
+    },
+    {
+      "name": "Kraken"
+    },
+    {
+      "name": "EXX"
+    },
+    {
+      "name": "itbit"
+    },
+    {
+      "name": "bit-z"
+    },
+    {
+      "name": "bithumb"
+    },
+    {
+      "name": "poloniex"
+    },
+    {
+      "name": "gemini"
+    },
+    {
+      "name": "bittrex"
+    },
+    {
+      "name": "livecoin"
+    }
+  ],
+  "is_listed": true,
+  "tokenid": "BTC",
+  "category": "基础设施",
+  "total_supply": "21,000,000",
+  "icon_url": "https://bitcoin.org/img/icons/logotop.png?1531105557",
+  "circulating_supply": "17,070,000",
+  "desc": "Bitcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by the network. Although other cryptocurrencies have come before, Bitcoin is the first decentralized cryptocurrency - Its reputation has spawned copies and evolution in the space.",
+  "desc_zh": "",
+  "symbol": "BTC",
+  "ico_info": {
+    "status": "",
+    "end_date": "",
+    "funds_raised": "",
+    "start_date": "",
+    "ico_price": "",
+    "token_for_investors": "",
+    "funding_target": "",
+    "token_type": "",
+    "distribution": [],
+    "funding_cap": "N/A"
+  },
+  "github_owner": "bitcoin",
+  "github": "https://github.com/bitcoin",
+  "name": "bitcoin",
+  "project": {
+    "website": "https://bitcoin.org/zh_CN/",
+    "contacts": "",
+    "symbol": "BTC",
+    "whitepaper_url": "https://bitcoin.org/bitcoin.pdf"
+  },
+  "contract_address": "",
+  "trend_indices": [
+    {
+      "statistics": {
+        "postCount": "",
+        "followersCount": 38657,
+        "likesCount": 38251
+      },
+      "url": "https://www.facebook.com/bitcoins",
+      "identifier": "",
+      "channel": "facebook"
+    },
+    {
+      "statistics": {
+        "tweetsCount": 444,
+        "followersCount": 60600
+      },
+      "url": "https://twitter.com/btc",
+      "identifier": "",
+      "channel": "twitter"
+    }
+  ]
+}
