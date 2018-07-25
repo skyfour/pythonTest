@@ -1,0 +1,255 @@
+﻿{
+  "team": [
+    {
+      "avatar_url": "https://0xproject.com/images/team/will.jpg",
+      "name": "Will Warren",
+      "title": "CO-FOUNDER & CEO",
+      "title_zh": "联合创始人兼首席执行官",
+      "socials": [
+        {
+          "link": "https://www.linkedin.com/in/will-warren-92aab62b/",
+          "channel": "linkedin"
+        }
+      ]
+    },
+    {
+      "avatar_url": "https://0xproject.com/images/team/amir.jpeg",
+      "name": "Amir Bandeali",
+      "title": "CO-FOUNDER & CTO",
+      "title_zh": "联合创始人兼首席技术官",
+      "socials": [
+        {
+          "link": "https://www.linkedin.com/in/abandeali1/",
+          "channel": "linkedin"
+        }
+      ]
+    },
+    {
+      "avatar_url": "https://0xproject.com/images/team/alex.jpg",
+      "name": "Alex Xu",
+      "title": "DIRECTOR OF OPERATIONS",
+      "title_zh": "运营总监",
+      "socials": [
+        {
+          "link": "https://www.linkedin.com/in/alex-xu/",
+          "channel": "linkedin"
+        }
+      ]
+    },
+    {
+      "avatar_url": "https://0xproject.com/images/team/leonid.png",
+      "name": "Leonid Logvinov",
+      "title": "ENGINEER",
+      "title_zh": "工程师",
+      "socials": [
+        {
+          "link": "https://www.linkedin.com/in/leonidlogvinov/",
+          "channel": "linkedin"
+        }
+      ]
+    },
+    {
+      "avatar_url": "https://0xproject.com/images/team/tom.jpg",
+      "name": "Tom Schmidt",
+      "title": "PRODUCT MANAGER",
+      "title_zh": "产品经理",
+      "socials": [
+        {
+          "link": "https://www.linkedin.com/in/tomhschmidt/",
+          "channel": "linkedin"
+        }
+      ]
+    },
+    {
+      "avatar_url": "https://0xproject.com/images/team/greg.jpeg",
+      "name": "Greg Hysen",
+      "title": "BLOCKCHAIN ENGINEER",
+      "title_zh": "区块链工程师",
+      "socials": [
+        {
+          "link": "https://www.linkedin.com/in/gregory-hysen-71741463/",
+          "channel": "linkedin"
+        }
+      ]
+    },
+    {
+      "avatar_url": "https://0xproject.com/images/team/jacob.jpg",
+      "name": "Jacob Evans",
+      "title": "ECOSYSTEM ENGINEER",
+      "title_zh": "生态系统工程师",
+      "socials": [
+        {
+          "link": "https://www.linkedin.com/in/dekzter/",
+          "channel": "linkedin"
+        }
+      ]
+    }
+  ],
+  "advisors": [
+    {
+      "avatar_url": "https://0xproject.com/images/advisors/fred.jpg",
+      "name": "Fred Ehrsam",
+      "title": "Co-founder of Coinbase",
+      "title_zh": "Coinbase联合创始人",
+      "socials": [
+        {
+          "link": "https://www.linkedin.com/in/fredehrsam/",
+          "channel": "linkedin"
+        },
+        {
+          "link": "https://twitter.com/FEhrsam",
+          "channel": "twitter"
+        }
+      ]
+    },
+    {
+      "avatar_url": "https://0xproject.com/images/advisors/olaf.png",
+      "name": "Olaf Carlson-Wee",
+      "title": "Founder of Polychain Capital,Angel investor",
+      "title_zh": "Polychain Capital创始人，天使投资人",
+      "socials": [
+        {
+          "link": "https://www.linkedin.com/in/olafcw/",
+          "channel": "linkedin"
+        }
+      ]
+    },
+    {
+      "avatar_url": "https://0xproject.com/images/advisors/joey.jpg",
+      "name": "Joey Krug",
+      "title": "Co-CIO at Pantera Capital,Founder of Augur",
+      "title_zh": "Pantera Capital联合首席信息官,Augur创始人",
+      "socials": [
+        {
+          "link": "https://www.linkedin.com/in/joeykrug/",
+          "channel": "linkedin"
+        }
+      ]
+    },
+    {
+      "avatar_url": "https://0xproject.com/images/advisors/linda.jpg",
+      "name": "Linda Xie",
+      "title": "Co-founder of Scalar Capital",
+      "title_zh": "Scalar Capital联合创始人",
+      "socials": [
+        {
+          "link": "https://www.linkedin.com/in/lindaxie/",
+          "channel": "linkedin"
+        },
+        {
+          "link": "https://twitter.com/ljxie",
+          "channel": "twitter"
+        }
+      ]
+    }
+  ],
+  "investors": [
+    {
+      "avatar_url": "",
+      "name": "",
+      "url": ""
+    }
+  ],
+  "exchanges": [
+    {
+      "name": "Binance"
+    },
+    {
+      "name": "OKEx"
+    },
+    {
+      "name": "HitBTC"
+    },
+    {
+      "name": "Poloniex"
+    },
+    {
+      "name": "Bittrex"
+    },
+    {
+      "name": "Huobi"
+    },
+    {
+      "name": "Gate.io"
+    },
+    {
+      "name": "Bithumb"
+    },
+    {
+      "name": "Livecoin"
+    }
+  ],
+  "is_listed": true,
+  "tokenid": "ZRX",
+  "category": "通证交易所",
+  "total_supply": "1,000,000,000",
+  "icon_url": "http://tokenpedia.io/images/token_icons/64x64/0x.png",
+  "circulating_supply": "535,737,655",
+  "desc": "At its core, 0x is an open and non-rent seeking protocol that facilitates trustless, low friction exchange of Ethereum-based assets. Developers can use 0x as a platform to build exchange applications on top of.",
+  "desc_zh": "",
+  "symbol": "ZRX",
+  "ico_info": {
+    "status": "PAST",
+    "end_date": "2017-08-16",
+    "funds_raised": "$24,000,000",
+    "start_date": "2017-08-12",
+    "ico_price": "0.00016 ETH",
+    "token_for_investors": "",
+    "funding_target": "",
+    "token_type": "ERC20",
+    "distribution": [
+      {
+        "owner": "Token Launch",
+        "percentage": 50
+      },
+      {
+        "owner": "Retained by 0x",
+        "percentage": 15
+      },
+      {
+        "owner": "Developer Fund",
+        "percentage": 15
+      },
+      {
+        "owner": "Founding Team",
+        "percentage": 10
+      },
+      {
+        "owner": "Early Backers & Advisors",
+        "percentage": 10
+      }
+    ],
+    "funding_cap": "N/A"
+  },
+  "github_owner": "0xProject",
+  "github": "https://github.com/0xProject",
+  "name": "0x",
+  "project": {
+    "website": "https://0xproject.com/",
+    "contacts": "team@0xproject.com",
+    "symbol": "ZRX",
+    "whitepaper_url": "https://www.0xproject.com/pdfs/0x_white_paper.pdf"
+  },
+  "contract_address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+  "trend_indices": [
+    {
+      "statistics": {
+        "postCount": "",
+        "followersCount": 1418,
+        "likesCount": 1222
+      },
+      "url": "https://www.facebook.com/0xProject/",
+      "identifier": "",
+      "channel": "facebook"
+    },
+    {
+      "statistics": {
+        "tweetsCount": 525,
+        "followersCount": 131000
+      },
+      "url": "https://twitter.com/0xproject",
+      "identifier": "",
+      "channel": "twitter"
+    }
+  ]
+}

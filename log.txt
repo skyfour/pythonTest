@@ -1,0 +1,27 @@
+[W 180724 10:56:47 webhook:38] [UOP] App is running on: localhost:9000
+[W 180724 18:51:00 webhook:38] [UOP] App is running on: localhost:9000
+[W 180724 18:51:11 wsgi:374] 404 POST /payload (::1) 115.28ms
+[W 180725 16:48:10 webhook:38] [UOP] App is running on: localhost:9000
+[E 180725 16:49:04 app:1761] Exception on / [POST]
+    Traceback (most recent call last):
+      File "D:\work\Python36\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+        response = self.full_dispatch_request()
+      File "D:\work\Python36\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+        rv = self.handle_user_exception(e)
+      File "D:\work\Python36\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+        reraise(exc_type, exc_value, tb)
+      File "D:\work\Python36\lib\site-packages\flask\_compat.py", line 35, in reraise
+        raise value
+      File "D:\work\Python36\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+        rv = self.dispatch_request()
+      File "D:\work\Python36\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+        return self.view_functions[rule.endpoint](**req.view_args)
+      File "D:/tokenWorkSpace/tokenscraper/webhook.py", line 24, in get_webhook
+        git_operation.handle_webhook(commits, repo)
+      File "D:/tokenWorkSpace/tokenscraper\git_operation.py", line 22, in handle_webhook
+        token_importer.process_token_file(s[1])
+      File "D:/tokenWorkSpace/tokenscraper\token_importer.py", line 41, in process_token_file
+        with open(json_file, encoding='UTF-8') as stream:
+    FileNotFoundError: [Errno 2] No such file or directory: '123123\\BTC.json'
+[E 180725 16:49:04 wsgi:374] 500 POST / (::1) 6831.48ms
+[W 180725 16:50:08 webhook:38] [UOP] App is running on: localhost:9000
